@@ -1,0 +1,39 @@
+/* this is copied from an old assignment. it will likely change, if it hasnt, im lazy.*/
+
+body {
+	font-family: system-ui, "Gill Sans", sans-serif;
+	font-size: 15px;
+	background-color: #42394E;
+	color: #EADDFF;
+	padding-left: 0.2em;
+}
+
+h1 {
+	color: #C1AAFF;
+	margin-top: 0.1em;
+	margin-bottom: 0.1em;
+	font-size: 4em;
+}
+
+h2 {
+	font-family: "Courier New";
+	color: #C1AAFF;
+	margin-top: -0.4em;
+	margin-left: 3em;
+	padding-bottom: 0em;
+	font-style: italic;
+	font-size: 2.4em;
+}
+
+a {
+	color: #CBBAFF;
+}
+
+a:visited {
+	color: #6F47FF;
+}
+
+footer {
+	margin-top: 2em;
+	font-style: italic;
+}
